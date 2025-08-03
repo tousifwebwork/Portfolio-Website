@@ -362,7 +362,7 @@ nav .fas{
 
 
 @media only screen and (max-width:600px){
-     .header {
+     #header {
          background-image: url("Images/MobileScrren-tousif.png");
      }
     .logo{  
@@ -443,6 +443,7 @@ nav .fas{
     }
 
 }
+
 
 
 
