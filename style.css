@@ -14,7 +14,6 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(Images/wall-tousif.png);
     background-size: cover;
     background-position: center;
 }
@@ -446,3 +445,4 @@ nav .fas{
     }
 
 }
+
